@@ -28,7 +28,8 @@
     "test": "grunt nodeunit -v"
   },
   "dependencies": {
-    "gaze": "~0.4.0",
+    //"gaze": "~0.4.0",
+    "gaze" : "git+ssh://git@github.com:brett-shwom/gaze.git#master", //gotta figure out how to point to a specific commit within master
     "tiny-lr": "0.0.4"
   },
   "devDependencies": {
