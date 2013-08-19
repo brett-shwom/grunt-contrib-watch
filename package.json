@@ -28,7 +28,7 @@
     "test": "grunt nodeunit -v"
   },
   "dependencies": {
-    "gaze" : "git+ssh://git@github.com:brett-shwom/gaze.git#master",
+    "gaze" : "git+ssh://git@github.com:brett-shwom/gaze.git#newfolder-then-newfile",
     "tiny-lr": "0.0.4"
   },
   "devDependencies": {
